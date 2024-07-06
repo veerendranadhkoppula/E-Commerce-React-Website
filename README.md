@@ -1,1 +1,1 @@
-Created a simple e-commerce website with product listings, a shopping cart, and a checkout process. Features: State management (Redux or Context API), user authentication, routing, API for product data
+developed a simple e-commerce website with product listings, a shopping cart, and a checkout process. Features: State management (Redux or Context API), user authentication, routing, API for product data
