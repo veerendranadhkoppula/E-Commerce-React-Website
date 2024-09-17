@@ -1,3 +1,43 @@
 developed a simple e-commerce website with product listings, a shopping cart, and a checkout process. Features: State management (Redux or Context API), user authentication, routing, API for product data
 
 ## Live Demo - https://e-commercewebsite-react.netlify.app/
+
+# E-Commerce Project
+
+## Overview
+
+This E-Commerce Project is a dynamic online store built using **React.js** for the front-end and **Django** for the back-end. It provides a user-friendly platform for browsing products, managing a shopping cart, and processing orders. 
+
+## Technologies Used
+
+- **Frontend:** React.js, JavaScript, HTML5, CSS3
+
+
+### Frontend
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/ecommerce-project.git
+    cd ecommerce-project/frontend
+    ```
+
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+3. Start the development server:
+    ```bash
+    npm start
+    ```
+
+## Usage
+
+- Open `http://localhost:3000` for the front-end.
+
+
+
+## Contact
+
+For any inquiries, please contact [veerendranadh.com](mailto:veerendrakoppula68@gmail.com).
+
