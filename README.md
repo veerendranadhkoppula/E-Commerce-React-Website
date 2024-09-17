@@ -5,7 +5,7 @@ developed a simple e-commerce website with product listings, a shopping cart, an
 
 ## Overview
 
-This E-Commerce Project is a dynamic online store built using **React.js** for the front-end and **Django** for the back-end. It provides a user-friendly platform for browsing products, managing a shopping cart, and processing orders. 
+This E-Commerce Project is a dynamic online store built using **React.js** for the front-end  It provides a user-friendly platform for browsing products, managing a shopping cart. 
 
 ## Technologies Used
 
