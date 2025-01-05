@@ -1,5 +1,5 @@
 developed a simple e-commerce website with product listings, a shopping cart, and a checkout process. Features
-## Live Demo - https://e-commerce-full-website-react.netlify.app/
+## Live Demo - https://e-commerce-react-website-chi.vercel.app/
 
 # E-Commerce Project
 
